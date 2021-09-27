@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/bottom_nav_item_color_selector.xml" value="0.23125" />
+        <entry key="app/src/main/res/drawable/btn_bg_white_round.xml" value="0.19537037037037036" />
+        <entry key="app/src/main/res/drawable/indicator_active.xml" value="0.19074074074074074" />
+        <entry key="app/src/main/res/drawable/indicator_inactive.xml" value="0.19074074074074074" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/category_view.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.21510416666666668" />
+        <entry key="app/src/main/res/layout/fragment_my_profile.xml" value="0.21510416666666668" />
+        <entry key="app/src/main/res/layout/fragment_my_wish_list.xml" value="0.21510416666666668" />
+        <entry key="app/src/main/res/layout/fragment_shop_by_categories.xml" value="0.21510416666666668" />
+        <entry key="app/src/main/res/layout/full_widht_banner.xml" value="0.21510416666666668" />
+        <entry key="app/src/main/res/layout/product_rv_view.xml" value="0.21510416666666668" />
+        <entry key="app/src/main/res/layout/single_item_prodcut.xml" value="0.21510416666666668" />
+        <entry key="app/src/main/res/layout/single_item_prodcut_view.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/single_item_sub_cate_view.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/single_slider_view.xml" value="0.21510416666666668" />
+        <entry key="app/src/main/res/layout/sub_cate_rv_view.xml" value="0.21510416666666668" />
+        <entry key="app/src/main/res/layout/view_all_btn_view.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/side_nav.xml" value="0.2117948717948718" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
